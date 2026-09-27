@@ -17,7 +17,7 @@
                 <li>Size: 13.6"</li>
                 <li>Storage: 2TB</li>
             </ul>
-            <img src="[https://via.placeholder.com/200/FF0000/FFFFFF?text=MSI+Cyborg+15](https://cellphones.com.vn/laptop-msi-cyborg-15-a13uc-2082vn.html)" alt="MSI Cyborg 15" width="200">
+            <img src="https://cellphones.com.vn/laptop-msi-cyborg-15-a13uc-2082vn.html" alt="MSI Cyborg 15" width="200">
             <h3>ASUS ROG Strix G15</h3>
             <ul>
                 <li>Price: $1,299-$2,499</li>
