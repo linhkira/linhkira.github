@@ -24,7 +24,7 @@
                 <li>Size: 13", 14", 16"</li>
                 <li>Storage: 2-8TB</li>
             </ul>
-            <img src="https://via.placeholder.com/200/000000/FFFFFF?text=ASUS+ROG" alt="ASUS ROG Strix G15" width="200">
+            <img src="https://cdn2.cellphones.com.vn/x/media/catalog/product/2/_/2_64_37.jpg" alt="ASUS ROG Strix G15" width="200">
         </section>
         <section>
             <h2><a href="https://www.microsoft.com" target="_blank">Windows & Dell</a></h2>
@@ -34,14 +34,14 @@
                 <li>Size: 13.5"</li>
                 <li>Storage: 256GB-1TB</li>
             </ul>
-            <img src="https://via.placeholder.com/200/0088FF/FFFFFF?text=Windows+Surface" alt="Windows Surface Laptop" width="200">
+            <img src="https://cdn2.cellphones.com.vn/x/media/catalog/product/s/s/sssxs_3.png" alt="Windows Surface Laptop" width="200">
             <h3>Dell Inspiron</h3>
             <ul>
                 <li>Price: $699.99</li>
                 <li>Size: 15"</li>
                 <li>Storage: 1TB</li>
             </ul>
-            <img src="https://via.placeholder.com/200/555555/FFFFFF?text=Dell+Inspiron" alt="Dell Inspiron Laptop" width="200">
+            <img src="https://cdn2.cellphones.com.vn/x/media/catalog/product/s/s/ssss_1_125.png" alt="Dell Inspiron Laptop" width="200">
         </section>
     </main>
 </body>
