@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title/>Comparing Popular Laptops</title>
+    <title>Comparing Popular Laptops</title>
 </head>
 <body>
     <a href="#main-content">Skip to main content</a>
